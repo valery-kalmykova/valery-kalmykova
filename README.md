@@ -22,3 +22,5 @@
 <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 <img src="https://img.icons8.com/color/48/000000/sql.png"/>
 <img src="https://img.icons8.com/color/48/000000/docker.png"/></p>
+
+- Контакты: <a href="mailto:valery-ish@yandex.ru">valery-ish@yandex.ru</a>
