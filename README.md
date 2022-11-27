@@ -1,17 +1,3 @@
-### Привет!👋
-- Меня зовут Лера, я - студентка Яндекс.Практикума.
-- :mortar_board: Только учусь на веб-разработчика.
-- :bell: И скоро тут будет много проектов, которые мне предстоит сделать.
- 
-- :star: Мой стек <b>as is</b>:
-<p><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img src="https://img.icons8.com/color/48/000000/sass-avatar.png"/>
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-<img src="https://img.icons8.com/ios-filled/50/000000/github.png"/>
-<img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-<img src="https://img.icons8.com/color/48/000000/typescript.png"/></p>
-
 - :star: Мой стек <b>to be</b>:
 <p><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
